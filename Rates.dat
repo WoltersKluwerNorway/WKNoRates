@@ -11,6 +11,10 @@
 	<Rate Year="2019" Period="2">1.1</Rate>
     <Rate Year="2019" Period="5">1.4</Rate>
 	<Rate Year="2020" Period="3">0.4</Rate>
+	<Rate Year="2022" Period="2">0.9</Rate>
+	<Rate Year="2022" Period="4">1.3</Rate>
+	<Rate Year="2022" Period="5">2.0</Rate>
+	<Rate Year="2022" Period="6">2.4</Rate>
   </RateGroup>
   <RateGroup Name="SkjermingsRenteEPF">
     <!-- SkjermingsRenteEPF brukes i Skatt, kunngjøres i starten av Januar -->
@@ -22,6 +26,7 @@
 	<Rate Year="2019">1.7</Rate>
 	<Rate Year="2020">0.8</Rate>
 	<Rate Year="2021">0.6</Rate>
+	<Rate Year="2022">2.1</Rate>
   </RateGroup>
   <RateGroup Name="SkjermingsRenteSkatt">
     <!-- SkjermingsRenteSkatt brukes i Skatt, kunngjøres i starten av Januar -->
@@ -33,6 +38,7 @@
 	<Rate Year="2019">1.3</Rate>
 	<Rate Year="2020">0.6</Rate>
 	<Rate Year="2021">0.5</Rate>
+	<Rate Year="2022">1.7</Rate>
   </RateGroup>
   <RateGroup Name="Merverdiavgift">
     <!-- Brukes i Årsavslutning -->
@@ -95,6 +101,7 @@
     <Rate Year="2019">1.2</Rate>
 	<Rate Year="2020">0.3</Rate>
 	<Rate Year="2021">0.3</Rate>
+	<Rate Year="2022">0.0</Rate>
   </RateGroup>
   <RateGroup Name="Rederi_normrente_tillegg_hoy_egenkapital">
     <!-- Rederi. Brukes i Skatt.1197.sid1.F99 -->
@@ -126,6 +133,7 @@
     <Rate Year="2019">1.0137</Rate>
     <Rate Year="2020">1.0143</Rate>
     <Rate Year="2021">1.0531</Rate>
+	<Rate Year="2022">1.0589</Rate>
   </RateGroup>
   <RateGroup Name="NåverdiRente">
     <!-- Kraftverk. Brukes i Skatt.1161.sid1.F82, kun i 2016.3, endret til DiskonteringsRente  -->
@@ -153,6 +161,7 @@
     <Rate Year="2019">110.8</Rate>
     <Rate Year="2020">112.2</Rate>
 	<Rate Year="2021">116.1</Rate>
+	<Rate Year="2022">0.0</Rate>
   </RateGroup>
   <RateGroup Name="MaxReiseutgift">
     <!-- Brukes i 1030, Max reisefradrag -->
@@ -223,6 +232,7 @@
 	  <Rate Year="2019">2.1</Rate>
 	  <Rate Year="2020">2.5</Rate>
 	  <Rate Year="2021">1.8</Rate>
+	  <Rate Year="2022">1.9</Rate>
   </RateGroup>
   <RateGroup Name="Inkassosats">
     <!-- Inkassosats Dokument -->
