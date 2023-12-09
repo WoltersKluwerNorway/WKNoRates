@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <Rates>
   <RateGroup Name="Skjermingsrente" Periodic="True">
-    <!-- Skjermingsrente for ekstra skatt på lån, RF-1070 og avstemmingsskjema -->
+    <!-- Skjermingsrente for ekstra skatt på lån, privatFordringUten og avstemmingsskjema -->
     <Rate Year="0000" Period="1">1.3</Rate>
     <Rate Year="2010" Period="3">1.6</Rate>
     <Rate Year="2012" Period="1">1.1</Rate>
@@ -15,6 +15,10 @@
 	<Rate Year="2022" Period="4">1.3</Rate>
 	<Rate Year="2022" Period="5">2.0</Rate>
 	<Rate Year="2022" Period="6">2.4</Rate>
+    <Rate Year="2023" Period="1">2.4</Rate>
+    <Rate Year="2023" Period="2">2.7</Rate>
+    <Rate Year="2023" Period="4">3.2</Rate>
+    <Rate Year="2023" Period="5">3.5</Rate>
   </RateGroup>
   <RateGroup Name="SkjermingsRenteEPF">
     <!-- SkjermingsRenteEPF brukes i Skatt, kunngjøres i starten av Januar -->
@@ -174,6 +178,8 @@
 	<Rate Year="2020">73900</Rate>
 	<Rate Year="2021">73100</Rate>
 	<Rate Year="2022">83000</Rate>
+    <Rate Year="2023">82600</Rate>
+    <Rate Year="2024">82050</Rate>
   </RateGroup>
   <RateGroup Name="VerdiUttattFisk">
     <!-- Brukes i 1213, post 112, uttatt fisk -->
@@ -182,6 +188,8 @@
     <Rate Year="2019">1600</Rate>
 	<Rate Year="2020">1600</Rate>
 	<Rate Year="2021">1600</Rate>
+    <Rate Year="2022">1750</Rate>
+    <Rate Year="2023">1900</Rate>
   </RateGroup>
   <RateGroup Name="CostFOULow">
     <!-- Disponering FOU do.sid11 -->
