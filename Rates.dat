@@ -31,7 +31,7 @@
 	<Rate Year="2020">0.8</Rate>
 	<Rate Year="2021">0.6</Rate>
 	<Rate Year="2022">2.1</Rate>
-    <Rate Year="2023">0.0</Rate>
+    <Rate Year="2023">4.2</Rate>
   </RateGroup>
   <RateGroup Name="SkjermingsRenteSkatt">
     <!-- SkjermingsRenteSkatt brukes i Skatt, kunngjøres i starten av Januar -->
@@ -44,7 +44,7 @@
 	<Rate Year="2020">0.6</Rate>
 	<Rate Year="2021">0.5</Rate>
 	<Rate Year="2022">1.7</Rate>
-    <Rate Year="2023">0.0</Rate>
+    <Rate Year="2023">3.2</Rate>
   </RateGroup>
   <RateGroup Name="Merverdiavgift">
     <!-- Brukes i Årsavslutning -->
