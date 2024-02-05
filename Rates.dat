@@ -163,11 +163,11 @@
     <Rate Year="2020">0.058</Rate>
     <Rate Year="2021">0.064</Rate>
     <Rate Year="2022">0.078</Rate>
-    <Rate Year="2023">0.000</Rate>
+    <Rate Year="2023">0.085</Rate>
   </RateGroup>
   <RateGroup Name="Kalkulasjonsfaktor2">
     <!--Brukes i Skatt.fasteiendomFormue.sid1.F1037 -->
-    <Rate Year="2023">0.000</Rate>
+    <Rate Year="2023">0.095</Rate>
   </RateGroup>
   <RateGroup Name="Indeks">
     <!-- Kraftverk. Brukes i Skatt.1153.sid3.F24 -->
