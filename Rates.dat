@@ -224,6 +224,7 @@
     <Rate Year="2022">1223</Rate>
     <Rate Year="2023">1243</Rate>
     <Rate Year="2024">1277</Rate>
+    <Rate Year="2025">1314</Rate>
   </RateGroup>
   <RateGroup Name="SatsAlminneligInntektFinans">
     <!-- SatsAlminneligInntektFinans Skatt -->
