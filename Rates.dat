@@ -275,10 +275,12 @@
   <RateGroup Name="RegAS">
     <!-- RegAS Dokument -->
     <Rate Year="2021">6797</Rate>
+    <Rate Year="2025">7653</Rate>
   </RateGroup>
   <RateGroup Name="eRegAS">
     <!-- eRegAS Dokument -->
     <Rate Year="2021">5570</Rate>
+    <Rate Year="2025">6500</Rate>
   </RateGroup>
   <RateGroup Name="TinglysingsgebyrFastEiendom">
     <!-- TinglysingsgebyrFastEiendom Dokument -->
