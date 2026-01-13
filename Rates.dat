@@ -230,6 +230,7 @@
     <Rate Year="2023">1243</Rate>
     <Rate Year="2024">1277</Rate>
     <Rate Year="2025">1314</Rate>
+    <Rate Year="2026">1345</Rate>
   </RateGroup>
   <RateGroup Name="SatsAlminneligInntektFinans">
     <!-- SatsAlminneligInntektFinans Skatt -->
@@ -266,28 +267,35 @@
   <RateGroup Name="Inkassosats">
     <!-- Inkassosats Dokument -->
     <Rate Year="2021">700</Rate>
+    <Rate Year="2026">750</Rate>
   </RateGroup>
   <RateGroup Name="SalaerSats">
     <!-- SalaerSats Dokument -->
     <Rate Year="2021">1085</Rate>
     <Rate Year="2022">1107</Rate>
+    <Rate Year="2026">1315</Rate>
   </RateGroup>
   <RateGroup Name="RegAS">
     <!-- RegAS Dokument -->
     <Rate Year="2021">6797</Rate>
     <Rate Year="2025">7653</Rate>
+    <Rate Year="2026">7912</Rate>
   </RateGroup>
   <RateGroup Name="eRegAS">
     <!-- eRegAS Dokument -->
     <Rate Year="2021">5570</Rate>
     <Rate Year="2025">6500</Rate>
+    <Rate Year="2026">6825</Rate>
   </RateGroup>
   <RateGroup Name="TinglysingsgebyrFastEiendom">
     <!-- TinglysingsgebyrFastEiendom Dokument -->
     <Rate Year="2021">585</Rate>
+    <Rate Year="2026">545</Rate>
   </RateGroup>
   <RateGroup Name="TinglysingsgebyrBorettslagsandel">
     <!-- TinglysingsgebyrBorettslagsandel Dokument -->
     <Rate Year="2021">480</Rate>
+    <Rate Year="2026">545</Rate>
   </RateGroup>
 </Rates>
+
